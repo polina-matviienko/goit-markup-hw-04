@@ -236,7 +236,6 @@ button {
   justify-content: center;
   align-items: center;
   height: 112px;
-  padding: 24px 0;
   margin-bottom: 8px;
   background-color: var(--cloud);
   border-radius: 4px;
